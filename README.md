@@ -19,6 +19,7 @@ Regra 2: Deve remover somente os duplicados, e deixar uma lista com os items ún
 Regra 3: Exibir o resultado dos deletados conforme no exemplo. Printar os dados que foram deletados e exibir a lista sem duplicados.
 
 
+
 Ex 2 - Função de exibir dados dos usuários
 
 Dada a seguinte lista, de forma decrescente, retorne os dados das 2 listas de forma agrupada, pela seguinte ordem.
